@@ -257,6 +257,9 @@ footer{
     margin: 5%;
 }
 
+.project img{
+    border-radius: 5%;
+}
 /* Desktop view */
 
 @media screen and (min-width: 720px) {
@@ -370,8 +373,5 @@ footer{
         height: auto;
         margin-left: auto;
         margin-right: auto;
-    }
-    .project img{
-        border-radius: 5%;
     }
 }
